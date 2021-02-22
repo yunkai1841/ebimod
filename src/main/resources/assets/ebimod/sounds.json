@@ -1,0 +1,7 @@
+{
+  "put_omaebi": {
+    "category": "block",
+    "subtitle": "ebimod.subtitle.omaebi.put",
+    "sounds": [ "ebimod:omaebi1" ]
+  }
+}

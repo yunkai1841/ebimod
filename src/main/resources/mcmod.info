@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ebimod",
+  "name": "Ebi Mod",
+  "description": "Add shrimp",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ゆにゅb"],
+  "credits": "Twitter: @yunyun_awsd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
